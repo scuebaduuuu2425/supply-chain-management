@@ -2,6 +2,11 @@
 
 A comprehensive data analysis and machine learning project for optimizing supply chain operations in the Fashion & Beauty industry.
 
+## 👤 Author
+**ASWASANA ROUT**  
+[GitHub](https://github.com/scuebaduuuu2425) | [LinkedIn](https://linkedin.com/in/aswasana-rout-155298325)
+
+
 ## 🎯 Project Overview
 
 This project analyzes supply chain data from a makeup products startup and implements a deep learning model for demand forecasting. The analysis covers inventory management, supplier performance, logistics optimization, and quality control.
@@ -67,8 +72,20 @@ python 04_generate_report.py
 streamlit run 04_streamlit_dashboard.py
 ```
 
-### Google Colab
-Upload the complete notebook to [Google Colab](https://colab.research.google.com) and run all cells sequentially.
+## 📒 Google Colab Notebooks
+
+1️⃣ **Data Exploration**  
+Initial data analysis, statistics, and insights.  
+🔗 [Open in Google Colab](https://colab.research.google.com/github/scuebaduuuu2425/supply-chain-management/blob/main/data_exploration.ipynb)
+
+2️⃣ **Data Visualization**  
+Charts, graphs, and visual insights for supply chain data.  
+🔗 [Open in Google Colab](https://colab.research.google.com/github/scuebaduuuu2425/supply-chain-management/blob/main/data_visualization.ipynb)
+
+3️⃣ **Demand Forecasting Model**  
+Machine learning / deep learning based demand prediction.  
+🔗 [Open in Google Colab](https://colab.research.google.com/github/scuebaduuuu2425/supply-chain-management/blob/main/demand_forecasting_model.ipynb)
+
 
 ## 📈 Model Performance
 
@@ -136,11 +153,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-## 👤 Author
-
-**Your Name**  
-[GitHub](https://github.com/scuebaduuuu2425) | [LinkedIn](https://linkedin.com/in/aswasana-rout-155298325)
 
 ## 🙏 Acknowledgments
 
