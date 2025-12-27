@@ -1,9 +1,10 @@
-# 📦 Supply Chain Management - ML Project
+# 📦 Supply Chain Management - ML Project 
 
 A comprehensive data analysis and machine learning project for optimizing supply chain operations in the Fashion & Beauty industry.
 
 ## 👤 Author
 **ASWASANA ROUT**  
+
 [GitHub](https://github.com/scuebaduuuu2425) | [LinkedIn](https://linkedin.com/in/aswasana-rout-155298325)
 
 
@@ -61,31 +62,16 @@ pip install -r requirements.txt
 
 ### Run Complete Analysis
 ```bash
-python 01_data_exploration.py
-python 02_data_visualization.py
-python 03_demand_forecasting_model.py
-python 04_generate_report.py
+data exploration.ipynb
+data visualization.ipynb
+demand forecasting_model.ipynb
+generate_report.ipynb
 ```
 
 ### Launch Dashboard
 ```bash
-streamlit run 04_streamlit_dashboard.py
+streamlit run dashboard.py
 ```
-
-## 📒 Google Colab Notebooks
-
-1️⃣ **Data Exploration**  
-Initial data analysis, statistics, and insights.  
-🔗 [Open in Google Colab](https://colab.research.google.com/github/scuebaduuuu2425/supply-chain-management/blob/main/data_exploration.ipynb)
-
-2️⃣ **Data Visualization**  
-Charts, graphs, and visual insights for supply chain data.  
-🔗 [Open in Google Colab](https://colab.research.google.com/github/scuebaduuuu2425/supply-chain-management/blob/main/data_visualization.ipynb)
-
-3️⃣ **Demand Forecasting Model**  
-Machine learning / deep learning based demand prediction.  
-🔗 [Open in Google Colab](https://colab.research.google.com/github/scuebaduuuu2425/supply-chain-management/blob/main/demand_forecasting_model.ipynb)
-
 
 ## 📈 Model Performance
 
@@ -129,6 +115,8 @@ Interactive Streamlit dashboard with 6 pages:
 4. **Supplier & Location** - Performance comparison
 5. **Shipping & Transportation** - Logistics analysis
 6. **Quality Control** - Defect rates, inspections
+
+To view : http://localhost:8501/
 
 ## 📝 Key Insights
 
