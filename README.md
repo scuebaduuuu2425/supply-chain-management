@@ -117,6 +117,7 @@ Interactive Streamlit dashboard with 6 pages:
 6. **Quality Control** - Defect rates, inspections
 
 To view : http://localhost:8501
+          https://supply-chain-management-vrrvz4zchbd9mib3ekzsub.streamlit.app/
 
 ## 📝 Key Insights
 
