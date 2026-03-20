@@ -116,8 +116,7 @@ Interactive Streamlit dashboard with 6 pages:
 5. **Shipping & Transportation** - Logistics analysis
 6. **Quality Control** - Defect rates, inspections
 
-To view : http://localhost:8501
-          https://supply-chain-management-vrrvz4zchbd9mib3ekzsub.streamlit.app/
+To view : https://supply-chain-management-vrrvz4zchbd9mib3ekzsub.streamlit.app/
 
 ## 📝 Key Insights
 
